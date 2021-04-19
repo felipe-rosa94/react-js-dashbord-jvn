@@ -1,0 +1,70 @@
+#content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+#formulario {
+    width: 50%;
+}
+
+.main-div {
+    margin: 8px;
+}
+
+#div-salvar-cancelar {
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+#div-progress {
+    margin: 8px;
+    display: flex;
+    align-items: center;
+}
+
+#titulos-paginas {
+    width: 100%;
+    font-size: larger;
+    color: #1e1e26;
+    text-align: center;
+    margin: 8px;
+}
+
+#lista {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+#card {
+    width: 300px;
+    margin: 8px;
+}
+
+#card-media {
+    width: 300px;
+    height: 200px;
+}
+
+#div-acoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#titulo {
+    font-size: medium;
+    font-weight: bolder;
+    color: #1e1e26;
+    margin: 4px;
+    width: 200px;
+}
+
+#botoes {
+    margin: 4px;
+}

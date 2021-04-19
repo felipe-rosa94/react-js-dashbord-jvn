@@ -1,0 +1,28 @@
+#content-login {
+    display: flex;
+    justify-content: center;
+}
+
+#main-login {
+    width: 300px;
+    margin: 24px;
+}
+
+.login {
+    margin: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+#titulo-login {
+    color: black;
+    font-size: 20px;
+}
+
+@media screen and (max-width: 992px) {
+    #content-login {}
+}
+
+@media screen and (max-width: 600px) {
+    #content-login {}
+}

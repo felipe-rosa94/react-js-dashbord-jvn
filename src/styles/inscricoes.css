@@ -1,0 +1,18 @@
+#inscricoes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#div-qrcode {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
+
+#texto {
+    margin: 4px;
+    color: #1e1e26;
+}
